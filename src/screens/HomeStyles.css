@@ -1,0 +1,17 @@
+.buttonDiv {
+    
+    background-color: #e6a263;
+}
+.buttonDiv:hover{
+    background-color: orange;
+    
+}
+
+.homeServiceClass {
+   
+}
+
+.serviceTitleText {
+    padding-top: 50;
+}
+
