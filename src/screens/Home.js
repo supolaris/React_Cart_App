@@ -26,7 +26,7 @@ export const Home = () => {
             </p>
           </div>
           {/* <div style={styles.buttonDiv}> */}
-          <div className="buttonDiv" style={styles.buttonDiv}>
+          <div id="helloWorld" className="buttonDiv" style={styles.buttonDiv}>
             <p style={styles.buttonText}>Get started</p>
           </div>
         </div>
@@ -132,10 +132,10 @@ const styles = {
   bagImage: {
     borderRadius: 20,
   },
-  buttonDiv: {
-    width: "25%",
-    borderRadius: 20,
-  },
+  // buttonDiv: {
+  //   width: "25%",
+  //   borderRadius: 20,
+  // },
   buttonText: {
     color: "#000000",
     fontWeight: "600",

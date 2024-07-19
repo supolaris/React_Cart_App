@@ -1,10 +1,19 @@
 .buttonDiv {
+    background-color: #9563e6;
+    width: 30% !important;
+    border-radius: 10px;
+    padding: 5px !important;
+   
     
-    background-color: #e6a263;
+    
 }
 .buttonDiv:hover{
     background-color: orange;
     
+    
+}
+#helloWorld {
+    border-radius: 50;
 }
 
 .homeServiceClass {
